@@ -1,4 +1,4 @@
-# desafio_logica_de_progamacao
+# Desafio_logica_de_progamacao
 1º Desafio lógica de programação - DIO
 A fim de resolver o desafio abaixo criei uma solução na linguagem Kotlin aproveitando da expressão when que facilita o processo de verificação, muito parecido com o switch porém escrevendo menos código para alcançar o objetivo:
 
