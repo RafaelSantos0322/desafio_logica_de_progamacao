@@ -1,7 +1,6 @@
 fun main() {
     var name = "TaskMan"
     var xp = 19000
-    var nivel = listOf(Bro
     
     when(xp){
       in -999999999999999999..-1 -> println("Olá $name, cuidado! \nvocê está seguindo o caminho Dark!")
